@@ -8,7 +8,7 @@ public class conversorTemperatura {
         System.out.println("Digite o valor da temperatura em Celsius para converter em Farenheit:");
         celsius = dado.nextDouble();
 
-        farenheit = (celsius * 9)/ 5 + 32;
+        farenheit = (celsius * 9 / 5) + 32;
 
         System.out.println(celsius + " graus são " + farenheit + " F");
     }
