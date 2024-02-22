@@ -10,8 +10,9 @@ public class calculaAreaCirculo {
         raio = dado.nextDouble();
 
         area = pi * raio * raio;
+        areaArredondada = Math.floor(area * 100) / 100;
 
-        System.out.println("A área da circunferência de raio " + raio + "cm é igual a: " + area + "cm");
+        System.out.println("A área da circunferência de raio " + raio + "cm é igual a: " + areaArredondada + "cm");
 
     }
 }
