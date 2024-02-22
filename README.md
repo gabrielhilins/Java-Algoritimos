@@ -11,4 +11,5 @@ Os projetos principais e que valem a pena dar uma olhada são:
 - Fibonacci
 - Tabuada
 - EuclidesMDC
-- 
+- Conversor Minutos / Horas
+- Verificador de Ano Bissexto
