@@ -1,7 +1,7 @@
 # Algoritimos em Java
 
 ## Bem vindo!
-Neste repositório você encontra diversos projetos de Algoritmos feitos em java, baseados em conteúdos de Algoritimos e as principais características da linguage Java
+Neste repositório você encontra diversos projetos de Algoritmos feitos em java, baseados em conteúdos de Algoritimos e as principais características da linguagem Java
 
 Os projetos principais e que valem a pena dar uma olhada são:
 - [🧾 Simulador de Imposto de Renda](https://github.com/gabrielhilins/Java-Algoritimos/blob/main/Estruturas%20Condicionais/impostoDeRenda.java)
