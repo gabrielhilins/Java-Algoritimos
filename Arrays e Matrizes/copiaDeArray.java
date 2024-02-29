@@ -26,13 +26,13 @@ public class copiaDeArray {
 
         System.out.println("Array 1:");
         for (int valor : array1) {
-            System.out.print(valor + " ");
+            System.out.print(valor + ", ");
         }
         System.out.println(); // Adicionar uma quebra de linha para separar as saídas
 
         System.out.println("Copia do Array 1:");
         for (int valor : array2) {
-            System.out.print(valor + " ");
+            System.out.print(valor + ", ");
         }
         System.out.println(); // Adicionar uma quebra de linha para separar as saídas
     }   
