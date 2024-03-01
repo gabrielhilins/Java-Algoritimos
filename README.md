@@ -38,7 +38,13 @@ Os projetos principais e que valem a pena dar uma olhada são:
   - Caso você queira saber se o ano X é Bisexto ou não de forma rápida, esse programa faz isso pra você
     
 - [⏲️ Calculador de IMC](https://github.com/gabrielhilins/Java-Algoritimos/blob/main/Variaveis%2C%20Tipos%2C%20Entrada%20e%20Sa%C3%ADda%2C%20Operadores/calculaIMC.java)
-  - Esse sistema calcula o seu IMC automaticamente 
-
+  - Esse sistema calcula o seu IMC automaticamente
+    
+- [Multiplicação de Matrizes](https://github.com/gabrielhilins/Java-Algoritimos/blob/main/Arrays%20e%20Matrizes/multiplicacaoEntreMatrizes.java)
+  - Esse programa realiza a multiplica"cão de duas matrizes que você quiser/precisar automaticamente
+    
+- [Matriz Transposta automática](https://github.com/gabrielhilins/Java-Algoritimos/blob/main/Arrays%20e%20Matrizes/matrizTransposta.java)
+  - Esse programa mostra a Matriz transposta de duas matrizes. Sim, nem eu lembrava desse negócio depois do ensino medio, mas esse programa ja resolve pra voce facil fac
+    
 - [📈 Média de Arrays](https://github.com/gabrielhilins/Java-Algoritimos/blob/main/Arrays%20e%20Matrizes/mediaDeArray.java)
   - Esse algoritmo faz a média do Array que você determinar
